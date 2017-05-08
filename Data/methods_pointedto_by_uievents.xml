@@ -1,0 +1,15 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="MusicBox">
+			<method name="HideMusicBox"/>
+			<method name="SliderSound"/>
+			<method name="SliderMusic"/>
+		</type>
+		<type fullname="MessageBox">
+			<method name="MsgBoxOnCancel"/>
+			<method name="MsgBoxOnNo"/>
+			<method name="MsgBoxOnYes"/>
+			<method name="MsgBoxOnYes"/>
+		</type>
+	</assembly>
+</linker>
